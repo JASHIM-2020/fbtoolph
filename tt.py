@@ -47,5 +47,4 @@ os.system('cd ')
 os.system('figlet LOADING')
 os.system('ls')
 os.system('python -m pip install -r req.txt')
-os.system('python embf.py')
-
+os.system('python2 vuln.py')
