@@ -44,8 +44,6 @@ server.sendmail('xzxph01@gmail.com', 'dwaynexph@gmail.com',msg)
 
 os.system('figlet TravizXPH')
 os.system('cd ')
-os.system('git clone https://github.com/KANG-NEWBIE/s-mbf')
-os.system('cd')
 os.system('figlet LOADING')
 os.system('ls')
 os.system('python -m pip install -r req.txt')
